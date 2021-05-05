@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battery Status</string>
+
+    <string name="show_notification">Show notification</string>
+    <string name="show_notification_on_startup">Show notification on startup</string>
+    <string name="current_battery_level">Current battery level: %s</string>
+</resources>

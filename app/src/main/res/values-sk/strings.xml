@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stav batérie</string>
+
+    <string name="show_notification">Zobraziť notifikáciu</string>
+    <string name="show_notification_on_startup">Zobraziť notifikáciu po spustení</string>
+    <string name="current_battery_level">Aktuálna úroveň batérie: %s</string>
+</resources>
