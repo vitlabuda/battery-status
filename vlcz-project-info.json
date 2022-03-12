@@ -1,0 +1,10 @@
+{
+  "ignore": false,
+  "display_name": "Battery Status",
+  "description": null,
+  "programming_language": "Java",
+  "priority": 450,
+  "category_id": "android-apps",
+  "category_display_name": "Android apps",
+  "category_priority": 1100
+}
