@@ -4,7 +4,7 @@
   "description": null,
   "programming_language": "Java",
   "priority": 450,
-  "category_id": "android-apps",
-  "category_display_name": "Android apps",
+  "category_id": "desktop-mobile-apps",
+  "category_display_name": "Desktop & mobile apps",
   "category_priority": 1100
 }
